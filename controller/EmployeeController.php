@@ -1,6 +1,6 @@
 <?php
 require_once 'config/Database.php';
-require_once 'models/EmployeeModel.php';
+require_once 'model/EmployeeModel.php';
 
 
 class EmployeeController{
